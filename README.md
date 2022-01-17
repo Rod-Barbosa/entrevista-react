@@ -4,11 +4,11 @@
 
 | No. | Questões |
 | --- | --------- |
-|   | **Core React** |
+|   | **Fundamentos** |
 |1  | [O que é React?](#o-que-é-react) |
 
 
-## Fundamentos do React
+## Fundamentos
 
 1. ### O que é React?
 
